@@ -1,6 +1,7 @@
 # Mudae Scripts
 
 This repository is a collection of various scripts I made for Mudae.
+
 Included a `main.go` file for hosting on `localhost`.
 
 ## JavaScript Files in `scripts/`:
